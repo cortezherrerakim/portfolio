@@ -5,11 +5,11 @@ body {
 h1 {font-family: cursive;
     font-size: 300%;
     font-style: oblique;
-    text-align: center;
-}
+    text-align: center;}
+
 h2  {text-align: center;}
 
 div {display:block;
-    float:left;
+    float:left;}
 
-}
+h3  {text-align: center;}    
