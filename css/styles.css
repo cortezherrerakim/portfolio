@@ -1,4 +1,7 @@
 body {
-    background-color: olivedrab;
-    color: rgb(0, 0, 0);
+    background-color: rgb(84, 128, 102);
+    color: rgb(0, 0, 0);  
+}
+h1 {font-family: cursive;
+font-size: 300%;
 }
